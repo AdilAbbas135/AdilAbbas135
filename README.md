@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adil Abbas</h1>
 <h3 align="center">Working as a Full Stack Engineer expertise in Next.js | React.js | Node.js | Express.js | Mongo DB & Mysql</h3>
-
+**`SOFTWARE ENGINEER`**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adilabbas135/) 
 
